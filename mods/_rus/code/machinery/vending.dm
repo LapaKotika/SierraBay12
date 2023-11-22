@@ -15,7 +15,7 @@
 	desc = "Старый автомат по продаже газировки. Как он мог сюда попасть?"
 
 /obj/machinery/vending/boozeomat
-	name = "бухл-О-Мат"
+	name = "бухл-О-Матsewegwg"
 	desc = "Холодильный торговый аппарат для продажи алкогольных напитков и дополнений к ним."
 
 /obj/machinery/vending/cigarette
